@@ -1,4 +1,4 @@
-# Analise Exploratoria em Dados de Varejo Americano
+# Análise Exploratória em Dados de Varejo Americano
 O objetivo é responder 10 perguntas de negócio a partir de um dataset sobre uma rede de varejo que comercializa diversos produtos em diversas cidades dos EUA.
 
 Os dados são reais e foram extraídos do link :https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
